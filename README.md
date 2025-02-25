@@ -1,9 +1,9 @@
-##📌 Concrete Strength Prediction
+📌 Concrete Strength Prediction
 
-##📖 Overview
+📖 Overview
 This project focuses on predicting the compressive strength of concrete using multiple regression models. The goal is to analyze various factors affecting concrete strength and build models that provide accurate predictions.
 
-##📂 Dataset
+📂 Dataset
 The dataset includes multiple features influencing concrete strength, such as:
 - Cement
 - Blast Furnace Slag
